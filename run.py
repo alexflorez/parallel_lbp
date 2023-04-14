@@ -1,4 +1,3 @@
-#!/home/alexjosue/anaconda2/bin/python
 import sys
 import os
 from subprocess import Popen, PIPE, STDOUT
